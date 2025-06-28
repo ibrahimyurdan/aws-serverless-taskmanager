@@ -150,7 +150,3 @@ This project demonstrates several important aspects of serverless application de
 - Email notifications for due dates
 - Mobile application using React Native
 - Enhanced analytics and reporting
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
